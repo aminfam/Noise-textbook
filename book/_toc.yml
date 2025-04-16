@@ -5,6 +5,7 @@ parts:
   - caption: Contents
     chapters:
     - file: some_content/overview.md
+    - file: fie_to_be_added_to_toc.md
       sections:
       - file: some_content/text_and_code.ipynb
     - file: exercises.md
