@@ -4,6 +4,7 @@ root: intro.md
 parts:
   - caption: Contents
     chapters:
+    - file: Chapter1
     - file: some_content/overview.md
     - file: fie_to_be_added_to_toc.md
       sections:
