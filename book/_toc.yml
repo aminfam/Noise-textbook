@@ -2,16 +2,14 @@ format: jb-book
 root: intro.md
 
 parts:
-  - caption: Course information
-    chapters:
-    - file: course_information
-    - file: schedule
-    - file: instructions
-    - file: contact_information
-    - url: https://brightspace.tudelft.nl/d2l/home/680476
-      title: Brightspace announcements 📢
-
-  - caption: Activities
+  - caption: course information
+   chapters:
+     - file: course information
+     - file: schedule
+     - file: contact information
+       - url: https://brightspace.tudelft.nl/d2l/home/595782
+        title: Brightspace announcements 📢
+  - caption: chapters
     chapters:
       - file: chapter1
         sections:
@@ -22,8 +20,8 @@ parts:
           - file: noise mitigation
 
   - caption: formative group work
-      - file: group work
-   chapters:
+      - file:
+  chapters:
     - file:
     - file: references.md
     - file: changelog.md
