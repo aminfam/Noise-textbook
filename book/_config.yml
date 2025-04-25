@@ -7,7 +7,7 @@ execute:
 only_build_toc_files: true
 
 html:
-  baseurl :  "https://ciem5000-2025.github.io/book/" #Replace this with your own URL
+  baseurl :  "https://aminfam.github.io/Noise-textbook/" #Replace this with your own URL
 
 sphinx:
   config:
