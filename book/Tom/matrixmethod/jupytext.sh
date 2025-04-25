@@ -1,1 +1,0 @@
-$ jupytext --to md:myst __init__.py
