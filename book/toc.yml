@@ -12,44 +12,23 @@ parts:
       title: Brightspace announcements 📢
   - caption: Activities
     chapters:
-    - file: lecture1.md
+    - file: 1.md
       sections:
       - file: lecture1/recap.ipynb
       - file: lecture1/displacement.md
-      - file: lecture1/single_element.md
-      - file: lecture1/combine.md
-      - file: lecture1/matrix.md
-      - file: lecture1/directly.md
-      - file: lecture1/matrix_python.md
-      - file: lecture1/other_elements.ipynb
-      - file: lecture1/transformations.md
-    - file: workshop1.md
+    - file: 2.md
       sections:
       - file: workshop1/Workshop_1_Implement.ipynb
       - file: workshop1/Workshop_1_Apply.ipynb
-    - file: lecture2.md
       sections:
       - file: lecture2/element_loads.md
-      - file: lecture2/direchlet.md
-      - file: lecture2/postprocessing.ipynb
-      - file: lecture2/fem.ipynb
-      - file: lecture2/example.md
-    - file: workshop2.md
+    - file: group work.md
       sections:
       - file: workshop2/Workshop_2_Implement.ipynb
       - file: workshop2/Workshop_2_Apply.ipynb
-    - file: additional.md
-      sections:
-      - file: additional/beam.ipynb
-      - file: additional/beam_kinked.ipynb
-      - file: additional/frame.ipynb
     - file: assignment.md
-  - caption: matrixmethod package
+  - caption: project description
     chapters:
-    - file: matrixmethod/__init__.md
-    - file: matrixmethod/node.md
-    - file: matrixmethod/elements.md
-    - file: matrixmethod/constrainer.md
   - caption: Miscellaneous
     chapters:
     - file: references.md
