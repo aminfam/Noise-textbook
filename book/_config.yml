@@ -20,7 +20,7 @@ sphinx:
       logo:
         text: ENVM1900 - Road Traffic Noise
       repository_url: "https://github.com/aminfam/Noise-textbook.git"
-      path_to_docs: "book"
+      path_to_docs: "Tom"
       repository_branch: "main"
       use_edit_page_button: true
       use_repository_button: true
