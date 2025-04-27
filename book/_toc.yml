@@ -27,8 +27,6 @@ parts:
       - file: workshop2/Workshop_2_Implement.ipynb
       - file: workshop2/Workshop_2_Apply.ipynb
     - file: assignment.md
-  - caption: project description
-    chapters:
   - caption: Miscellaneous
     chapters:
     - file: references.md
