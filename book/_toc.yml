@@ -4,19 +4,19 @@ root: intro.md
 parts:
   - caption: Course information
     chapters:
-      - file: course_information
-      - file: schedule
-      - file: instructions
-      - file: contact_information
-      - url: https://brightspace.tudelft.nl/d2l/home/681243
-        title: Brightspace announcements 📢
-
+    - file: course_information
+    - file: schedule
+    - file: instructions
+    - file: contact_information
+    - url: https://brightspace.tudelft.nl/d2l/home/681243
+      title: Brightspace announcements 📢
   - caption: Noise Book Chapters
     chapters:
-      - file: 1
-      - file: 2
-        sections:
-          - file: noise_mitigation  # avoid spaces in filenames
-      - file: references
-      - file: credits
-      - file: changelog
+    - file: 1.md
+    - file: 2.md
+    sections:
+      - file: noise mitigation.md
+    chapters:
+    - file: references.md
+    - file: credits.md
+    - file: changelog.md
