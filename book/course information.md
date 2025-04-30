@@ -3,11 +3,25 @@
 ## Learning objectives
 At the end of the statics part of this module, you will.
 be able to:
-1.	Translate the main steps of the matrix method into a set of programming classes with distinct tasks
-2. Extend the classes to solve arbitrarily complex frame problems in statics
-3. Postprocess the analyses and recover continuum fields exactly
+LO1: Identify grand challenges in atmospheric environmental engineering related to sustainability of the built environment and to human health. (ILO: b)
 
+LO2: To translate these problems into scientific research and/or engineering questions. (ILO: b)
+
+LO3: Select the appropriate scientific tools (theoretical/ observational/ numerical) to address those questions and become cognizant of the limitations of the chosen tools. (ILO: a)
+
+LO4: Apply various scientific tools in a rigorous and efficient manner. (ILO: e, f)
+
+LO5: Plan, monitor and manage a project and to collaborate in an interdisciplinary team with people from diverse backgrounds. (ILO: j, k)
+
+LO6: Develop novel ideas for interventions; existing knowledge is critically assessed, and alternatives are sought for by integrating multi-disciplinary approaches. (ILO: c)
+
+LO7: Reflect on the societal impact of interventions and be able to discuss ethical aspects of those within the context of atmospheric environment engineering. (ILO: l)
+
+LO8: Effectively communicate research findings to other researchers, engineers, as well as to the general public. (ILO: i)
+
+LO9: Demonstrate understanding of the following UN sustainable development goals: (a) good health and well-being; (b) affordable and clean energy; (c) sustainable cities and communities; and (d) climate action. (ILO: h)
 The matrix method for statics is part of the unit 2 of the course CIEM5000 Base: Structural Engineering.
+
 
 ## Learning activities
 In this submodule, you'll have two lectures where we cover the content. This book represents the content of those lectures in [](lecture1.md) and [](lecture2.md) 
