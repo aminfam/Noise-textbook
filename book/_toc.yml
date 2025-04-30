@@ -13,9 +13,6 @@ parts:
   - caption: Noise Book Chapters
   chapters:
     - file: 1.md
-     sections:
-      - file: lecture1/recap.ipynb
-      - file: lecture1/displacement.md
     - file: 2.md
     sections:
       - file: noise mitigation.md
