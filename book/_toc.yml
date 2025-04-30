@@ -11,7 +11,7 @@ parts:
     - url: https://brightspace.tudelft.nl/d2l/home/681243
       title: Brightspace announcements 📢
   - caption: Noise Book Chapters
-  chapters:
+    chapters:
     - file: 1.md
     - file: 2.md
     sections:
