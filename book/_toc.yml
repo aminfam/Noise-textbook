@@ -2,7 +2,9 @@ format: jb-book
 root: intro.md
 
 parts:
-  - file: Chapter_1.md
+  - caption: Course information
+    chapters:
+    - file: Chapter_1
   # - file: Chapter 2
   # - file: Chapter 3
   # - file: Chapter 4
