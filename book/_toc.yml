@@ -3,8 +3,8 @@ root: intro.md
 
 parts:
   - caption: Course information
-      chapters:
-      - file: Chapter_1
+    chapters:
+    - file: Chapter_1
   # - file: Chapter 2
   # - file: Chapter 3
   # - file: Chapter 4
