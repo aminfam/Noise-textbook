@@ -12,7 +12,7 @@ parts:
       title: Brightspace announcements 📢
   - caption: Noise Book Chapters
     chapters:
-    - file: 1.md
+    - file: Chapter1-road noise/1.md/
     - file: 2.md
     sections:
       - file: noise mitigation.md
