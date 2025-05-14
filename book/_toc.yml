@@ -2,21 +2,25 @@ format: jb-book
 root: intro.md
 
 parts:
-  - caption: Course information
-    chapters:
-    - file: course_information
-    - file: schedule
-    - file: instructions
-    - file: contact_information
-    - url: https://brightspace.tudelft.nl/d2l/home/681243
-      title: Brightspace announcements 📢
-  - caption: Noise Book Chapters
-    chapters:
-    - file: Chapter1-road noise/1.md/
-    - file: 2.md
-    sections:
-      - file: noise mitigation.md
-    chapters:
-    - file: references.md
-    - file: credits.md
-    - file: changelog.md
+  - file: Chapter 1
+  - file: Chapter 2
+  - file: Chapter 3
+  - file: Chapter 4
+  # - caption: Course information
+  #   chapters:
+  #   - file: course_information
+  #   - file: schedule
+  #   - file: instructions
+  #   - file: contact_information
+  #   - url: https://brightspace.tudelft.nl/d2l/home/681243
+  #     title: Brightspace announcements 📢
+  # - caption: Noise Book Chapters
+  #   chapters:
+  #   - file: Chapter1-road noise/1.md/
+  #   - file: 2.md
+  #   sections:
+  #     - file: noise mitigation.md
+  #   chapters:
+  #   - file: references.md
+  #   - file: credits.md
+  #   - file: changelog.md
