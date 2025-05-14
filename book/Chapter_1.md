@@ -1,4 +1,4 @@
-# Lecture 1
+# Chapter 1
 
 ::::::{versionchanged} v2025.0.1 before first lecture
 Updated lecture slides: moved slides on python packages and updated installation requirements first workshop
